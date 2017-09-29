@@ -1,0 +1,25 @@
+{
+  "name": "litcoin",
+  "version": "1.0.0",
+  "description": "The most LIT cryptocurrency ever.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinbourdier/LITcoin.git"
+  },
+  "author": "Austin Bourdier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinbourdier/LITcoin/issues"
+  },
+  "homepage": "https://github.com/austinbourdier/LITcoin#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.3.0"
+  }
+}
